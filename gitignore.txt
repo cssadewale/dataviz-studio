@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies / build folders not required for this static app
+node_modules/
+dist/
+build/
+.next/
+.npm/
+
+# Local files
+*.log
+*.tmp
+.env
